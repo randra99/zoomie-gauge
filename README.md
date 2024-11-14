@@ -1,6 +1,8 @@
 # Zoomie Gauge
 Zoomie Gauge was created as an effective DIY way of monitoring engine vitals, with the idea that visible alerts are most effective at preventing engine damage as compared to traditional gauges in motorsport applications.
 
+<img src="https://github.com/randra99/zoomie-gauge/blob/main/zoomie.gif" width="450" title="Gauge GIF"/> <img src="https://github.com/randra99/zoomie-gauge/blob/main/zoomiealert.gif" width="456" title="Gauge GIF"/>
+
 At the moment this has been developed and tested on an NC Mazda MX-5/Miata, however, given the right CAN frames this can be extended to virtually any CAN enabled vehicle.
 
 ## Hardware needed:
